@@ -1,0 +1,5 @@
+.sidebar {
+    width: 30%;
+    height: calc(100vh - 80px);
+    background-color: pink;
+}
